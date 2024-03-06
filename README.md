@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EAAZZYY
 - Django Developer, HTML ,TailwindCSS
-- 👀 I’m interested in Backend Web Development (for now)
+- 👀 I’m interested in Backend Web Development 
 - 💞️ I’m looking to collaborate on intersting projects
 - 📫 How to reach me tobiropo@gmail.com
 
